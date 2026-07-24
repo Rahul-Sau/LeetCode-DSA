@@ -8,6 +8,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+| [1046-last-stone-weight](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0502-ipo](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0767-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
