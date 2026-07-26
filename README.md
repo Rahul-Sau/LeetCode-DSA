@@ -117,6 +117,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -149,4 +151,8 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
