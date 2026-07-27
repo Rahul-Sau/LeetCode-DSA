@@ -10,6 +10,7 @@
 | [0502-ipo](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0502-ipo](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0767-reorganize-string) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 | [0658-find-k-closest-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
