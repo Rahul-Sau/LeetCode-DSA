@@ -64,6 +64,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0767-reorganize-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0767-reorganize-string) |
 ## Greedy
 |  |
@@ -73,6 +74,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
@@ -196,4 +198,8 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
