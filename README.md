@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
