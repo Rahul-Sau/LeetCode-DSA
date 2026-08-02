@@ -18,6 +18,7 @@
 | [0994-rotting-oranges](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0767-reorganize-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+| [1631-path-with-minimum-effort](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -210,6 +214,7 @@
 | [0785-is-graph-bipartite](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -228,12 +233,14 @@
 | [0130-surrounded-regions](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
