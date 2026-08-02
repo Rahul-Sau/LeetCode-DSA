@@ -14,6 +14,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+| [0877-stone-game](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -96,12 +97,14 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -240,4 +243,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0743-network-delay-time) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
