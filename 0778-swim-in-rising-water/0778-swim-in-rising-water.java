@@ -7,35 +7,47 @@ class Solution {
     public int swimInWater(int[][] grid) {
         int n=grid.length;
         int m=grid[0].length;
-        int[][] res = new int[n][m];
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(res[i], Integer.MAX_VALUE);
+        int low=grid[0][0];
+        int high=grid[0][0];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++)
+            high=Math.max(high,grid[i][j]);
         }
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> Integer.compare(a[0], b[0]));
+        int res=0;
+        while(low<=high){
+            int guess=(low+high)/2;
+            if(bfs(grid,n,m,guess)){
+                res=guess;
+                high=guess-1;
+            }
+            else
+            low=guess+1;
+        }
+        return res;
+    }
+    boolean bfs(int[][] a,int n,int m,int guess){
+        if (a[0][0] > guess) return false;
         int[] x={-1,1,0,0};
         int[] y={0,0,-1,1};
-
-        pq.add(new int[]{grid[0][0], 0, 0});
-        res[0][0] = grid[0][0];
-        while(!pq.isEmpty()){
-            int[] p=pq.poll();
-            int elev=p[0];
-            int row=p[1];
-            int col=p[2];
-            if(elev>res[row][col])
-            continue;
+        Queue<int[] > q=new LinkedList<>();
+        int[][]vis=new int[n][m];
+        vis[0][0]=1;
+        q.offer(new int[]{0,0});
+        while(!q.isEmpty()){
+            int[] p=q.poll();
+            int row=p[0];
+            int col=p[1];
+            if(row==n-1 && col==m-1) return true;
             for(int k=0;k<4;k++){
-                int r=row +x[k];
-                int c=col +y[k];
-                if(valid(r,c,n,m)){
-                int newelev=Math.max(elev,grid[r][c]);
-                if(newelev<res[r][c]){
-                    res[r][c]=newelev;
-                    pq.add(new int[]{newelev,r,c});
+                int r = row + x[k];
+                int c = col + y[k];
+                
+                if (valid(r, c, n, m) && vis[r][c]==0 && guess>= a[r][c]){
+                    q.offer(new int[]{r,c});
+                    vis[r][c]=1;
                 }
             }
         }
-        }
-        return res[n-1][m-1];
+        return false;
     }
 }
