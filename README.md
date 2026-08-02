@@ -45,6 +45,7 @@
 | [0743-network-delay-time](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -110,6 +111,7 @@
 | [0022-generate-parentheses](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -177,6 +179,7 @@
 | [0743-network-delay-time](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -217,6 +220,7 @@
 | [0743-network-delay-time](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -253,10 +257,12 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Game Theory
 |  |
 | ------- |
