@@ -59,6 +59,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0767-reorganize-string) |
@@ -77,6 +78,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0127-word-ladder](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0127-word-ladder) |
 | [0767-reorganize-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0767-reorganize-string) |
 ## Greedy
 |  |
@@ -213,6 +215,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
@@ -267,4 +270,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0877-stone-game) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
