@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0130-surrounded-regions) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0198-house-robber) |
@@ -140,6 +143,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -286,4 +290,8 @@
 | ------- |
 | [0136-single-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0191-number-of-1-bits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
