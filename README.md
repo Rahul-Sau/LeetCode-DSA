@@ -9,6 +9,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -283,5 +284,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
