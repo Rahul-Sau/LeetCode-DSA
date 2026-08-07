@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0130-surrounded-regions) |
@@ -116,6 +117,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0509-fibonacci-number) |
