@@ -120,6 +120,7 @@
 | [0066-plus-one](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0492-construct-the-rectangle](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0877-stone-game) |
@@ -137,6 +138,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
