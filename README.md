@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -100,6 +101,7 @@
 | [0027-remove-element](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
@@ -119,6 +121,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0492-construct-the-rectangle](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0492-construct-the-rectangle) |
