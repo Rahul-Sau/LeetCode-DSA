@@ -92,6 +92,7 @@
 | [0127-word-ladder](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0443-string-compression) |
 | [0767-reorganize-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0767-reorganize-string) |
 ## Greedy
 |  |
@@ -106,6 +107,7 @@
 | [0042-trapping-rain-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
