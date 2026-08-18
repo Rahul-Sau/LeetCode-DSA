@@ -17,6 +17,7 @@
 | [0200-number-of-islands](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
@@ -107,6 +108,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
