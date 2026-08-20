@@ -92,6 +92,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0344-reverse-string) |
