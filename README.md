@@ -22,6 +22,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+| [0706-design-hashmap](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0706-design-hashmap) |
 | [0778-swim-in-rising-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0994-rotting-oranges) |
@@ -75,6 +76,7 @@
 | [0268-missing-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0706-design-hashmap](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
@@ -326,4 +328,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
