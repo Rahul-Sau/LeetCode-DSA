@@ -340,4 +340,8 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0706-design-hashmap) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
