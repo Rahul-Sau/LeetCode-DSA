@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0136-single-number) |
@@ -147,6 +148,7 @@
 | [0022-generate-parentheses](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0509-fibonacci-number) |
