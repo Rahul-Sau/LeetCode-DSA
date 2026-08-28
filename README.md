@@ -346,4 +346,5 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0182-duplicate-emails) |
+| [0184-department-highest-salary](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
