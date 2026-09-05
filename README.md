@@ -30,6 +30,7 @@
 | [1046-last-stone-weight](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1631-path-with-minimum-effort) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0706-design-hashmap](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0767-reorganize-string) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Bucket Sort
 |  |
 | ------- |
