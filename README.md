@@ -110,6 +110,7 @@
 | [0443-string-compression](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0767-reorganize-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0767-reorganize-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 ## Greedy
@@ -157,6 +158,7 @@
 | [0492-construct-the-rectangle](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3871-count-commas-in-range-ii](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
 |  |
@@ -363,4 +365,12 @@
 | ------- |
 | [0182-duplicate-emails](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0184-department-highest-salary) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
