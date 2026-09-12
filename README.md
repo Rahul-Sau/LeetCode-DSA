@@ -356,6 +356,7 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0706-design-hashmap) |
+| [0933-number-of-recent-calls](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
@@ -373,4 +374,12 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
