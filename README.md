@@ -377,6 +377,7 @@
 | [1148-article-views-i](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1193-monthly-transactions-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1517-find-users-with-valid-e-mails) |
 | [1683-invalid-tweets](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1934-confirmation-rate) |
