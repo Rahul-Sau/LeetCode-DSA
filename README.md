@@ -377,6 +377,7 @@
 | [0595-big-countries](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1193-monthly-transactions-i) |
+| [1341-movie-rating](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1517-find-users-with-valid-e-mails) |
 | [1683-invalid-tweets](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1683-invalid-tweets) |
