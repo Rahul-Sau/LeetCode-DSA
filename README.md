@@ -368,6 +368,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
