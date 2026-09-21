@@ -108,6 +108,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0767-reorganize-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0767-reorganize-string) |
@@ -133,6 +134,7 @@
 | [0189-rotate-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -172,6 +174,7 @@
 | [0118-pascals-triangle](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0877-stone-game) |
