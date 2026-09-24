@@ -384,6 +384,7 @@
 | [1341-movie-rating](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1517-find-users-with-valid-e-mails) |
+| [1661-average-time-of-process-per-machine](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1934-confirmation-rate) |
