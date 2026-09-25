@@ -157,6 +157,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0326-power-of-three) |
@@ -194,6 +195,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0039-combination-sum) |
+| [0089-gray-code](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0113-path-sum-ii) |
 ## Stack
 |  |
@@ -343,6 +345,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0268-missing-number) |
