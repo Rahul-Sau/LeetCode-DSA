@@ -1,0 +1,1 @@
+const argumentsLength = (...args): number => args.length;
