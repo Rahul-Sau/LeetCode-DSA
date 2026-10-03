@@ -387,6 +387,7 @@
 | [0584-find-customer-referee](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1193-monthly-transactions-i) |
 | [1341-movie-rating](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1341-movie-rating) |
