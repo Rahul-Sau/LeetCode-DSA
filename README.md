@@ -379,6 +379,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0184-department-highest-salary) |
