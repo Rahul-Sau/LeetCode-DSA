@@ -76,6 +76,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0127-word-ladder) |
@@ -101,6 +102,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0022-generate-parentheses) |
@@ -159,6 +161,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0089-gray-code) |
