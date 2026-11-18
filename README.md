@@ -174,6 +174,7 @@
 | [0268-missing-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0492-construct-the-rectangle](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Rahul-Sau/LeetCode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
